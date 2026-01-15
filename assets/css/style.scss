@@ -1,0 +1,8 @@
+/* 隐藏GitHub Pages页脚 */
+.footer {
+    display: none !important;
+}
+/* 或者，如果上面的选择器不生效，可以尝试这个更通用的 */
+footer {
+    display: none !important;
+}
