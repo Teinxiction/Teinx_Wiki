@@ -1,3 +1,5 @@
 title: Teinx Wiki
 theme: jekyll-theme-minimal
 github: {is_project_page: false}
+stylesheets:
+  - /assets/css/style.scss
